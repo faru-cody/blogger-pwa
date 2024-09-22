@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'My Web Portal',
+  shortName: 'web portal',
+  description: 'My Web Portal with app.Designed by farhan nabeel',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://news-portal-farhan-nabeel.blogspot.com/',
 } satisfies Config;
